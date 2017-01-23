@@ -1,0 +1,9 @@
+{
+  "name": "norsound.com",
+  "version": "0.1.0",
+  "description": "Website for Norsound.com",
+  "main": "server.js",
+  "repository": "https://github.com/Norsound/norsound.com.git",
+  "author": "Jamie Barton <hi_jamie@me.com>",
+  "license": "MIT"
+}

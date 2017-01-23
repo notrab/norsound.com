@@ -1,0 +1,10 @@
+.sass-cache
+node_modules/
+dist/
+build/
+public/assets/
+*.css.map
+.DS_Store
+.DS_Store?
+Thumbs.db
+._*
